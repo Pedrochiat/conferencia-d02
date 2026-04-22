@@ -1,0 +1,6 @@
+.venv/
+logs/
+__pycache__/
+*.pyc
+02_model_input/modelo02/
+outputs/

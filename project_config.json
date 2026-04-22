@@ -1,0 +1,14 @@
+{
+  "base_dir": ".",
+  "folders": {
+    "logs": "logs"
+  },
+  "csv": {
+    "delimiter": ";",
+    "encoding": "utf-8"
+  },
+  "sigilo": {
+    "tags_anonimizadas": true,
+    "observacao": "Identificadores anonimizados para conferencia academica."
+  }
+}
